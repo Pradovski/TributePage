@@ -1,0 +1,45 @@
+<styles>
+
+  body {
+    background-color: #000;
+  }
+
+  h1 {
+    font-size: 55px;
+  }
+
+  h2 {
+    font-size: 25px;
+  }
+
+  li {
+    color: #A67;
+  }
+
+  li span {
+    color: #FFF;
+  }
+
+  p {
+    color: #FFF;
+  }
+
+  .displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #title {
+    color: #A67;
+    font-family: Arial Black;
+  }
+
+  #sub {
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38.45em;
+  }
+  
+</styles>
